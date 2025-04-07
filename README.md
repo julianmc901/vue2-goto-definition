@@ -17,7 +17,7 @@ A simple Visual Studio Code extension that allows you to **go to the definition*
 
 ## Installation
 
-Coming soon on [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/).
+VS code ext: [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=jmunoz.vue2-goto-definition).
 
 For now, clone this repo and run:
 

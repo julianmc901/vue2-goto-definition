@@ -3,6 +3,7 @@
   "displayName": "vue2-goto-definition",
   "description": "Simple go to component definition",
   "version": "0.0.1",
+  "publisher": "jmunoz",
   "author": {
     "name": "jmuñoz",
     "email": "julianmc90@gmail.com"
@@ -29,7 +30,6 @@
     "vue2",
     "hover"
   ],
-  "icon": "images/icon.png",
   "main": "./dist/extension.js",
   "activationEvents": [
     "onLanguage:vue"
