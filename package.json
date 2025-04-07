@@ -2,7 +2,7 @@
   "name": "vue2-goto-definition",
   "displayName": "vue2-goto-definition",
   "description": "Simple go to component definition",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "jmunoz",
   "author": {
     "name": "jmuñoz",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/tuusuario/vue2-goto-definition",
   "engines": {
-    "vscode": "^1.99.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Other"
