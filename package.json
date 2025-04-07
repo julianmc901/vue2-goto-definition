@@ -2,7 +2,7 @@
   "name": "vue2-goto-definition",
   "displayName": "vue2-goto-definition",
   "description": "Simple go to component definition",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "jmunoz",
   "author": {
     "name": "jmuñoz",
