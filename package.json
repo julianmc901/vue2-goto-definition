@@ -2,7 +2,7 @@
   "name": "vue2-goto-definition",
   "displayName": "vue2-goto-definition",
   "description": "Simple go to component definition",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "jmunoz",
   "author": {
     "name": "jmuñoz",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/tuusuario/vue2-goto-definition",
   "engines": {
-    "vscode": "^1.70.0"
+    "vscode": "^1.97.0"
   },
   "categories": [
     "Other"
@@ -59,7 +59,7 @@
   "devDependencies": {
     "@types/mocha": "^10.0.10",
     "@types/node": "20.x",
-    "@types/vscode": "^1.99.0",
+    "@types/vscode": "^1.97.0",
     "@typescript-eslint/eslint-plugin": "^8.28.0",
     "@typescript-eslint/parser": "^8.28.0",
     "@vscode/test-cli": "^0.0.10",

@@ -36,7 +36,7 @@ export class Vue2HoverProvider implements vscode.HoverProvider {
             const markdown = new vscode.MarkdownString();
             markdown.isTrusted = true;
       
-            const headerLine = 'vue2goto' + '\u00A0'.repeat(120) + 'jmuñoz';
+            const headerLine = 'vue2goto';
             markdown.appendMarkdown(`${headerLine}\n\n`);
             markdown.appendCodeblock(previewLines, 'js');
             return new vscode.Hover(markdown, wordRange);
