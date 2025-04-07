@@ -25,3 +25,6 @@ For now, clone this repo and run:
 npm install
 npm run package
 code --install-extension vue2-goto-definition-0.0.1.vsix
+
+
+**Author:** [jmuñoz](https://github.com/julianmc901/)
